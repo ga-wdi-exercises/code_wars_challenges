@@ -5,4 +5,4 @@ For the exercises below, follow the link and use the testing suite to validate y
 
 ## [Count Characters in a String](https://www.codewars.com/kata/count-characters-in-your-string/train/javascript)
 
-## [Delete Occurrences of an Element after N Repetitions](https://www.codewars.com/kata/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times)
+## [Delete Occurrences of an Element after N Repetitions](https://www.codewars.com/kata/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times/train/javascript)
